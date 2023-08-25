@@ -1,0 +1,21 @@
+_id,name,country,continent,population
+64e461856a513de565b29b15,Seoul,South Korea,Asia,25.674
+64e461856a513de565b29b16,Mumbai,India,Asia,19.98
+64e461856a513de565b29b17,Lagos,Nigeria,Africa,13.463
+64e461856a513de565b29b18,Beijing,China,Asia,19.618
+64e461856a513de565b29b19,Shanghai,China,Asia,25.582
+64e461856a513de565b29b1a,Osaka,Japan,Asia,19.281
+64e461856a513de565b29b1b,Cairo,Egypt,Africa,20.076
+64e461856a513de565b29b1c,Tokyo,Japan,Asia,37.4
+64e461856a513de565b29b1d,Karachi,Pakistan,Asia,15.4
+64e461856a513de565b29b1e,Dhaka,Bangladesh,Asia,19.578
+64e461856a513de565b29b1f,Rio de Janeiro,Brazil,South America,13.293
+64e461856a513de565b29b20,São Paulo,Brazil,South America,21.65
+64e461856a513de565b29b21,Mexico City,Mexico,North America,21.581
+64e461856a513de565b29b22,Delhi,India,Asia,28.514
+64e461856a513de565b29b23,Buenos Aires,Argentina,South America,14.967
+64e461856a513de565b29b24,Kolkata,India,Asia,14.681
+64e461856a513de565b29b25,New York,United States,North America,18.819
+64e461856a513de565b29b26,Manila,Philippines,Asia,13.482
+64e461856a513de565b29b27,Chongqing,China,Asia,14.838
+64e461856a513de565b29b28,Istanbul,Turkey,Europe,14.751
